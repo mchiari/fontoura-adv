@@ -1,7 +1,24 @@
 .container {
-  padding: 0 2rem;
+  display: block;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 .main {
   min-height: 100vh;
   padding: 4rem 0;
@@ -114,3 +131,4 @@
     flex-direction: column;
   }
 }
+*/
